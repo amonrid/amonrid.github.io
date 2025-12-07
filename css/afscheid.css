@@ -1,0 +1,78 @@
+
+
+html, body {
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+	background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+	color: #cccccc;
+	font-family: sans-serif;
+	
+}
+
+main {
+	display: grid;
+	grid-template-columns: 1fr ;
+	grid-template-rows: 2fr;
+	box-shadow: 4px 4px 7px 3px rgba(0,0,0,0.5);;
+	margin: 1em;
+  background-color: whitesmoke;
+	padding-top: 1em;
+  padding-left: 2em;
+	padding-right: 2em;
+}
+
+#largecross {
+	position: absolute;
+	width: 20em;
+  top: 50%;
+	left: 50%;
+	transform: translate(-50%, -80%);
+	fill: #333333;
+	fill-opacity: 0.3; 
+	stroke: #555555;	
+	stroke-opacity: 0.3;
+}
+
+h1 {
+	font-size: xxx-large;
+	text-align: center;
+	font-family: serif;
+	text-shadow: -1px 1px 1px gray;
+}
+
+h2 {
+	font-size: smaller;
+	text-align: center;
+	flex-direction: row;
+	font-style: italic;
+}
+
+.decised:after {
+	content: url("/images/logo.svg");
+	background-size: 10%;
+}
+
+p {
+	margin: 0.6em;
+}
+
+p:first-of-type p:nth-child(2){
+	margin: 0.5em;
+}
+
+.quote {
+	font-style: italic;
+	text-shadow: -1px 1px 1px gray;
+		font-family: serif;
+	display: block;
+	text-align: center;
+	margin: 1em;
+}
+
+.quote:before {
+	
+	font-size: 2em;
+	font-family: serif;
+}
