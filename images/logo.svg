@@ -1,1 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M304 64C277.5 64 256 85.5 256 112L256 192L176 192C149.5 192 128 213.5 128 240L128 272C128 298.5 149.5 320 176 320L256 320L256 528C256 554.5 277.5 576 304 576L336 576C362.5 576 384 554.5 384 528L384 320L464 320C490.5 320 512 298.5 512 272L512 240C512 213.5 490.5 192 464 192L384 192L384 112C384 85.5 362.5 64 336 64L304 64z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 384 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   width="384"
+   height="512"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1 @ F,0,1,1,0,17.8097,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5"
+     inkscape:cx="191.33333"
+     inkscape:cy="256"
+     inkscape:window-width="1916"
+     inkscape:window-height="2102"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+  <path
+     id="rect1"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.22705"
+     d="m 164.76367,17.8097 v 129.14427 a 17.8097,17.8097 135 0 1 -17.8097,17.8097 H 17.8097 A 17.8097,17.8097 135 0 0 0,182.57337 v 18.85326 a 17.8097,17.8097 45 0 0 17.8097,17.8097 l 129.14427,0 a 17.8097,17.8097 45 0 1 17.8097,17.8097 V 494.1903 A 17.8097,17.8097 45 0 0 182.57337,512 h 18.85326 a 17.8097,17.8097 135 0 0 17.8097,-17.8097 l 0,-257.14427 a 17.8097,17.8097 135 0 1 17.8097,-17.8097 l 129.14427,0 A 17.8097,17.8097 135 0 0 384,201.42663 v -18.85326 a 17.8097,17.8097 45 0 0 -17.8097,-17.8097 H 237.04603 a 17.8097,17.8097 45 0 1 -17.8097,-17.8097 V 17.8097 A 17.8097,17.8097 45 0 0 201.42663,0 h -18.85326 a 17.8097,17.8097 135 0 0 -17.8097,17.8097 z"
+     inkscape:path-effect="#path-effect1"
+     inkscape:original-d="M 164.76367,0 V 164.76367 H 0 v 54.47266 H 164.76367 V 512 h 54.47266 V 219.23633 H 384 V 164.76367 H 219.23633 V 0 Z" />
+</svg>
